@@ -1,5 +1,5 @@
 # OneFactorMC
-Library that allows a user to price a derivative using any one factor SDE, discretization method, RNG and payoff function.
+Library in C++11 that allows a user to price a derivative using any one factor SDE, discretization method, RNG and payoff function.
 Monte Carlo simulations are multi-threaded.
 
 The emphasis in this project was not so much on speed as it was on creating an elegant product that is easily portable, modifiable and extendable.
